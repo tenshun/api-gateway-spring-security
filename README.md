@@ -6,9 +6,9 @@
 #### TODO
 * configuration (https://springfox.github.io/springfox/docs/current/#springfox-spring-mvc-and-spring-boot)
 
-### Eureka
+### Netflix Zuul Support
 In dev...
-### Ouath2
+### Oauth2 Support
 In dev...
 
 ## Best practices
