@@ -7,6 +7,7 @@
 * configuration (https://springfox.github.io/springfox/docs/current/#springfox-spring-mvc-and-spring-boot)
 
 ### Netflix Zuul Support
+http://kubecloud.io/apigatewaypattern/
 In dev...
 ### Oauth2 Support
 In dev...
