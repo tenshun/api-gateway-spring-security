@@ -12,6 +12,7 @@ In dev...
 In dev...
 
 ## Best practices
+https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/
 https://apigee.com/about/blog/taglist/restful-api-design
 
 ## Other
