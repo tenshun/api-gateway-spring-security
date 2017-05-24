@@ -4,6 +4,6 @@ public class TokenTest {
 
     @Test
     public void getToken(){
-        
+
     }
 }

@@ -29,6 +29,7 @@ ext {
 dependencies {
 	compile('org.springframework.cloud:spring-cloud-starter-oauth2')
 	compile('org.springframework.cloud:spring-cloud-starter-security')
+	compile "io.springfox:springfox-swagger2:2.7.0"
 	compile('org.springframework.boot:spring-boot-starter-security')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
