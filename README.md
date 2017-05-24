@@ -33,7 +33,6 @@ Zuul have 4 types of filters:
 * ```error``` filters execute if an error occurs in the course of handling the request
 
 Tutorials:
-http://kubecloud.io/apigatewaypattern/
 https://spring.io/guides/gs/routing-and-filtering/
 
 In dev...Stay tuned.
@@ -47,4 +46,5 @@ https://apigee.com/about/blog/taglist/restful-api-design
 
 ## Other
 https://en.wikipedia.org/wiki/OpenAPI_Specification
+https://github.com/Netflix/zuul/wiki/How-it-Works
 
