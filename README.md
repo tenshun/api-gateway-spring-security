@@ -1,6 +1,9 @@
 # API Gateway Pattern
 ![alt text](https://cdn-1.wp.nginx.com/wp-content/uploads/2017/04/Palladino-conf2016-slide9_API-Gateway-Pattern-11-54.png)
 
+
+![alt text](https://piotrminkowski.files.wordpress.com/2017/04/swagger.png?w=768&h=656)
+
 ## Theory
 * todo pattern description
 
@@ -40,9 +43,12 @@ In dev...Stay tuned.
 ### Oauth2 Support
 In dev...
 
+http://projects.spring.io/spring-security-oauth/docs/oauth2.html
+
 ## Best practices
 https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/
 https://apigee.com/about/blog/taglist/restful-api-design
+https://piotrminkowski.wordpress.com/2017/04/14/microservices-api-documentation-with-swagger2/
 
 ## Other
 https://en.wikipedia.org/wiki/OpenAPI_Specification
